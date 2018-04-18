@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="strUnder">Below 18.5 is Underweight</string>
+    <string name="strNormal">Between 18.5 to 25 is Normal</string>
+    <string name="strOver">Between 25 to 30 is Overweight</string>
+    <string name="strObese">Above 30 is Obese</string>
+</resources>
