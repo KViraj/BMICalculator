@@ -9,12 +9,13 @@
 
     <ImageView
         android:id="@+id/im1"
-        android:layout_width="250sp"
-        android:layout_height="250sp"
+        android:scaleX="0.8"
+        android:scaleY="0.8"
+        android:layout_width="200sp"
+        android:layout_height="200sp"
         android:layout_centerInParent="true"
+        android:adjustViewBounds="true"
         android:contentDescription="SplashImage"
-        android:maxHeight="40sp"
-        android:maxWidth="40sp"
         app:srcCompat="@drawable/bmi_image"
         tools:layout_editor_absoluteX="50%"
         tools:layout_editor_absoluteY="50%" />
